@@ -1,0 +1,11 @@
+manifest:
+  remotes:
+    - name: bemeier
+      url-base: https://github.com/bemeier
+  projects:
+    - name: zmk
+      remote: bemeier
+      revision: schiffre
+      import: app/west.yml
+  self:
+    path: config
