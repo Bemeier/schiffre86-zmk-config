@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: bemeier
-      url-base: https://github.com/bemeier
+    - name: Bemeier
+      url-base: https://github.com/Bemeier
   projects:
     - name: zmk
-      remote: bemeier
+      remote: Bemeier
       revision: schiffre
       import: app/west.yml
   self:
