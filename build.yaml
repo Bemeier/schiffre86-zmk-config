@@ -1,3 +1,3 @@
 include:
   - board: schiffre_nrf
-  - shield: schiffre86
+    shield: schiffre86
